@@ -11,6 +11,8 @@
 /* If configure is being used, this symbol will be defined automatically
   at this point in the configuration header file. */
 
+#define JAS_WIN_MSVC_BUILD
+
 /* The preprocessor symbol JAS_WIN_MSVC_BUILD should not be defined
   unless the JasPer software is being built under Microsoft Windows
   using Microsoft Visual C. */
